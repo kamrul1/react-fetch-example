@@ -15,8 +15,6 @@ export default props => {
       });
   });
 
-  //not sure this is working.
-
   const apiReturn = () => {
     if (isLoaded) {
       return (
